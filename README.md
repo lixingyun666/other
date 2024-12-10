@@ -83,4 +83,4 @@ koishi 提供了高度便利的控制台，让你无需基础让你在几分钟�
 
 ## 原帖
 
-1. [koishi][koishijs/koishi: Cross-platform chatbot framework made with love](https://github.com/koishijs/koishi)
+1. [koishi](https://github.com/koishijs/koishi)
