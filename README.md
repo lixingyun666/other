@@ -69,7 +69,7 @@ koishi 提供了高度便利的控制台，让你无需基础让你在几分钟�
 
 5. 点进网址配置一下WebSocket Server
 
-   ![image-20241210101800708](C:\Users\34861\AppData\Roaming\Typora\typora-user-images\image-20241210101800708.png)
+   ![image-20241210101800708](image-20241210101800708.png)
 
 6. 打开koishi
 
@@ -79,7 +79,7 @@ koishi 提供了高度便利的控制台，让你无需基础让你在几分钟�
 
 7. 在market找到**adapter-onebot**安装然后添加插件
 
-   ![image-20241210102223613](C:\Users\34861\AppData\Roaming\Typora\typora-user-images\image-20241210102223613.png)
+   ![image-20241210102223613](image-20241210102223613.png)
 
 ## 原帖
 
