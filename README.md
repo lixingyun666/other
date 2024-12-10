@@ -65,7 +65,7 @@ koishi 提供了高度便利的控制台，让你无需基础让你在几分钟�
 
 4. napcat网址在log里面
 
-   ![image-20241210101724578](C:\Users\34861\AppData\Roaming\Typora\typora-user-images\image-20241210101724578.png)
+   ![image-20241210101724578](image-20241210101724578.png)
 
 5. 点进网址配置一下WebSocket Server
 
